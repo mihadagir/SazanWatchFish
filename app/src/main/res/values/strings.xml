@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sazan Watch Fish</string>
+    <string name="google_map_api_key">AIzaSyBWfXbubC8H2cnx5gPwC5hPnbh7wWU6x4w</string>
+    <string name="title_activity_maps_fragment">Map</string>
+    <string name="input_lake">Input Lake</string>
+    <string name="button_add_point">Add Point</string>
+    <string name="button_cancell">Cancell</string>
+    <string name="addBut">Add</string>
+    <string name="delete_but">Delete</string>
+    <string name="delete_point_text">DELETE POINT</string>
+</resources>
